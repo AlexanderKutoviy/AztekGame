@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>1</string>
+                <key>className</key>
+                <string>PTModelGeneralSettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Version Number</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.0</string>
+                </dict>
+                <key>Application Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Aztec</string>
+                </dict>
+                <key>Comments</key>
+                <dict>
+                    <key>value</key>
+                    <string>add comments here</string>
+                </dict>
+                <key>Reset text</key>
+                <dict>
+                    <key>value</key>
+                    <string>PLEASE NOTE:  You are about to reset all your game progress and start completely over.  Are you sure you want to do that?</string>
+                </dict>
+                <key>Game Speed Min</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Game Speed Max</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Game Speed Increase</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Game Angle Direction</key>
+                <dict>
+                    <key>value</key>
+                    <string>-90.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Game Preset</key>
+                <dict>
+                    <key>value</key>
+                    <string>&lt;Custom&gt;</string>
+                </dict>
+                <key>Fixed Rotation</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Forced Movement</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>Move Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Jump</key>
+                <dict>
+                    <key>value</key>
+                    <string>{10.550,12.500}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Jump Timeout</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Jump Counter</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Jump Ground Threshold</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.100000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Jump From Ground</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Simulation Time Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.200000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Friction</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Character Friction</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Gravity</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,-80.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Auto Image Direction</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Platform Friction</key>
+                <dict>
+                    <key>value</key>
+                    <string>2.500000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Move Left Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Move Right Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>lastIdNumber</key>
+                <string>38551</string>
+                <key>platformSpecificValues</key>
+                <dict>
+                    <key>Apple iOS App Store</key>
+                    <dict>
+                        <key>bundleID</key>
+                        <string>com.infinitygame.aztec</string>
+                        <key>nameOnDevice</key>
+                        <string>Aztec</string>
+                        <key>shareMessageTemplate</key>
+                        <string></string>
+                        <key>reviewLink</key>
+                        <string></string>
+                    </dict>
+                    <key>Microsoft Windows Marketplace</key>
+                    <dict>
+                        <key>bundleID</key>
+                        <string>com.companyname.gamename</string>
+                        <key>reviewLink</key>
+                        <string></string>
+                    </dict>
+                    <key>Apple Mac App Store</key>
+                    <dict>
+                        <key>reviewLink</key>
+                        <string></string>
+                    </dict>
+                    <key>Google Play Store</key>
+                    <dict>
+                        <key>versionCode</key>
+                        <string>1</string>
+                        <key>leaderboardId</key>
+                        <string>CgkIiMHs4eEcEAIQBQ</string>
+                        <key>googlePlayId</key>
+                        <string>988316115080</string>
+                        <key>licenseKey</key>
+                        <string>MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoacQ7Fq+jtwBsNhquN+kurwMMcRU68VaZQGZzEh8RneKgRW3qR0qHpbCHFEmoiGKemz/C35HMLaD1qwFpND1A7dIknD/9FONJLWRovp9hSQ1DJ2HamVQHhu/RWji++4fjOheAkCUBNqaC3em0CSTLxmpRumhXujKE7bcJsCL3Oju2h/3h3gUtLIpZOsuJ4TLm+BKrhy+Nilz5neNaiZONJRIk6kFv58cojcY6mNEyqqrBPR3u4kVOFMnwPTcmz7AJ+QH2PYSAknyev8sbaC54mVsYpk6iWnQ1ktZnmW0ebL85thQ1G6Gk4aSus976kIv2S2rgBqZd37IurWE5uaHBwIDAQAB</string>
+                        <key>adMobBanner</key>
+                        <string>ca-app-pub-6078078249526722/1038607294</string>
+                        <key>adMobInterstitial</key>
+                        <string>ca-app-pub-6078078249526722/2515340499</string>
+                        <key>bundleID</key>
+                        <string>com.infinitygame.aztec</string>
+                        <key>nameOnDevice</key>
+                        <string>Aztec</string>
+                        <key>shareMessageTemplate</key>
+                        <string>I had so much fun playing this beautiful game!</string>
+                        <key>reviewLink</key>
+                        <string>https://play.google.com/store/apps/details?id=com.infinitygame.aztec</string>
+                    </dict>
+                    <key>Amazon App Store</key>
+                    <dict>
+                        <key>reviewLink</key>
+                        <string></string>
+                    </dict>
+                </dict>
+                <key>scoreType</key>
+                <string>Coins</string>
+                <key>shareScreen</key>
+                <string>Game Over Screen</string>
+                <key>objectFrameEdgeState_0</key>
+                <string>2</string>
+                <key>objectFrameEdgeState_1</key>
+                <string>1</string>
+                <key>objectFrameEdgeState_2</key>
+                <string>0</string>
+                <key>objectFrameEdgeState_3</key>
+                <string>1</string>
+                <key>objectFrameRect</key>
+                <string>{{0.0000,0.2522},{0.9946,0.2034}}</string>
+                <key>_ibVersion</key>
+                <string>1.3.6</string>
+                <key>t</key>
+                <string>0</string>
+                <key>orientation</key>
+                <string>PTPScreenOrientationPortrait</string>
+                <key>screenAdjustment</key>
+                <string>0</string>
+            </dict>
+        </array>
+    </dict>
+</plist>
